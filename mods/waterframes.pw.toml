@@ -1,0 +1,13 @@
+name = "WATERFrAMES"
+filename = "waterframes-FABRIC-mc1.21-v2.0.14a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eBzFuVTM/versions/jpgJgCw0/waterframes-FABRIC-mc1.21-v2.0.14a.jar"
+hash-format = "sha1"
+hash = "831a10f10d604088c63c55317fd5df8857baaa96"
+
+[update]
+[update.modrinth]
+mod-id = "eBzFuVTM"
+version = "jpgJgCw0"

@@ -45,13 +45,48 @@ file = "config/yosbr/options.txt"
 hash = "2be2b5c10139cacd044848f7ecc86e345ae2d7ae855baeeb1e8e87b4342194eb"
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "ac8c32a282a2e2526ea8870ba5073ad515b7d057f2d0fe50b5be8b95a07bfb5d"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "375d07f4277a3384f8b476efb424dea0b53931f83af339c7fa149d45c5a48913"
+metafile = true
+
+[[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "23d57efa52911d3693d539fe5ba59f939ce13aae986e2200c3b2bb16dbdbb3a8"
+metafile = true
+
+[[files]]
+file = "mods/artsandcrafts.pw.toml"
+hash = "a050bd6fd8235bee1015ff5262043ec5872fee7a43b49d1f87e588cc13bc8b23"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "fa6e9e9fdae2076a024ad68f147b535e3d8acbedb8a4bf9a7f8dc0e0813cc5bd"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "8c3342aeba36b5ff34c10f0ad6c13bbeb7ea4f040683aba80e83776697ceda0d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "0cc365d0b8dc524a0b857c8bd162a478b1f52e5a307f18b32ef8c8091ad29259"
 metafile = true
 
 [[files]]
@@ -85,6 +120,11 @@ hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "c88fd4801f88e697b33a5552289a40c08f06b11b0578cd560547b08d0674d928"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "29b7078e678c6b90f607f9b09eaedc927fb274382963f39138b72243f2714224"
 metafile = true
@@ -92,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "ec7ddc7195eaec44adb0a060c48d919bedb82775a3b683f8da21ab2eb6921ab1"
+metafile = true
+
+[[files]]
+file = "mods/integrated-circuit.pw.toml"
+hash = "8a06f08e5bf08496b94c45751ea14249cb34cae462f6ea6cdc65155e7fe46bae"
 metafile = true
 
 [[files]]
@@ -135,6 +180,16 @@ hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
 metafile = true
 
 [[files]]
+file = "mods/moving-elevators.pw.toml"
+hash = "f38008954dbeda44cfeda579da16b73a77b67637eb7320ecc9f2366dab6b2d93"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "d17301f2e3cb2c1d5a11391096f1b06c7d1d4bafaaf96dec3def6a376b96396c"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "5c19a3fa886d36fd32ee8434b7948972329b96fa1f4064d8beadae832f168654"
 metafile = true
@@ -172,6 +227,41 @@ metafile = true
 [[files]]
 file = "mods/superb-steeds.pw.toml"
 hash = "b583669dd3c454c43ce6954e7c8268fde93cf07f12442dfa86a9dde307adbec2"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "a694429e03e20de9d94ddfe3964321ad981c16008f449789ee9ebb1c5c4470bc"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "2d868b98d488238e0dddd52b150a6578e8476eb7bcf107c5ab25096741112f05"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "11d45d83c817b2fa8572d7668d294763449b0fa62bde431665dcb833a9e581d3"
+metafile = true
+
+[[files]]
+file = "mods/trickster.pw.toml"
+hash = "57badffb92671ac9dc2086e928d89b7f9ad83b0d690bf6d7e4aa8e0dd0303516"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "864d64ce47f96da4114ad1b3d5f5dd5d3c613cb3545bb59c0cd63f62bb7d3d15"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "f4b00250499d238c56ad286c406e7d3f37118deefdc0711071bc31f66ee48c15"
+metafile = true
+
+[[files]]
+file = "mods/wilder-wild.pw.toml"
+hash = "7b8cbf55c0950801444ab007d1bf6afec03ad59e715b0a5b9ab157b38fb0f1ac"
 metafile = true
 
 [[files]]

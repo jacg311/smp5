@@ -1,0 +1,13 @@
+name = "Wilder Wild"
+filename = "WilderWild-2.4.6-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AtHRJSUW/versions/Vx3Fr262/WilderWild-2.4.6-mc1.21.jar"
+hash-format = "sha1"
+hash = "662c4b3c6a499d89e00654d543739171324206fc"
+
+[update]
+[update.modrinth]
+mod-id = "AtHRJSUW"
+version = "Vx3Fr262"
