@@ -1,0 +1,13 @@
+name = "Invariable Paintings: Collector's Stockbook"
+filename = "invarpaint-stockbook-1.1.0+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K0k9G0ui/versions/x4eG8Evw/invarpaint-stockbook-1.1.0%2B1.21.jar"
+hash-format = "sha1"
+hash = "74186b4a55cdd0c15664b5ee40deda5adef56ae7"
+
+[update]
+[update.modrinth]
+mod-id = "K0k9G0ui"
+version = "x4eG8Evw"

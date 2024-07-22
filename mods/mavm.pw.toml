@@ -1,0 +1,13 @@
+name = "More Axolotl Variants Mod"
+filename = "mavm-fabric-1.3.0-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zitu8weW/versions/QqyhOizq/mavm-fabric-1.3.0-mc1.21.jar"
+hash-format = "sha1"
+hash = "f75a094ac64e67e36439e570bccf71817f5d451c"
+
+[update]
+[update.modrinth]
+mod-id = "zitu8weW"
+version = "QqyhOizq"

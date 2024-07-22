@@ -1,0 +1,13 @@
+name = "Invariable Paintings"
+filename = "invariable-paintings-2.1.0+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/KodbCbpa/versions/NPWVIYuL/invariable-paintings-2.1.0%2B1.21.jar"
+hash-format = "sha1"
+hash = "d5f329a7972a0d00065aa8305edee145058fbd77"
+
+[update]
+[update.modrinth]
+mod-id = "KodbCbpa"
+version = "NPWVIYuL"
