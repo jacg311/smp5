@@ -1,0 +1,13 @@
+name = "Pigsteel [FABRIC]"
+filename = "pigsteel-fabric-1.21-2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TON5iMzn/versions/MKmr5WzB/pigsteel-fabric-1.21-2.2.1.jar"
+hash-format = "sha1"
+hash = "15210a54d89151bc1a701faa929a27b3af92106f"
+
+[update]
+[update.modrinth]
+mod-id = "TON5iMzn"
+version = "MKmr5WzB"

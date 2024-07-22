@@ -1,0 +1,13 @@
+name = "ctLibMod"
+filename = "ctLibMod-0.1.12.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EFNVfB1s/versions/cqZv7jpg/ctLibMod-0.1.12.jar"
+hash-format = "sha1"
+hash = "9f0989e8b32c56042818e3c63013be33c1a6bdad"
+
+[update]
+[update.modrinth]
+mod-id = "EFNVfB1s"
+version = "cqZv7jpg"

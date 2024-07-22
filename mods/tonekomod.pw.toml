@@ -1,0 +1,13 @@
+name = "toNekoMod"
+filename = "toNeko-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QFxgeSVF/versions/hUQhenup/toNeko-1.1.1.jar"
+hash-format = "sha1"
+hash = "9adef5b73ac20a0156c49562732710fb1fe42f76"
+
+[update]
+[update.modrinth]
+mod-id = "QFxgeSVF"
+version = "hUQhenup"

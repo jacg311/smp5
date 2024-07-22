@@ -55,8 +55,18 @@ hash = "375d07f4277a3384f8b476efb424dea0b53931f83af339c7fa149d45c5a48913"
 metafile = true
 
 [[files]]
+file = "mods/adventurez.pw.toml"
+hash = "67c64d77193901bb408c1c541e8405da11a8b87463d1caa0a0bbb356a195a3e4"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "23d57efa52911d3693d539fe5ba59f939ce13aae986e2200c3b2bb16dbdbb3a8"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "420663a6a26a3d60ca7bd07f942ba7ab3379daaf26772181a040e2caf97ff6e7"
 metafile = true
 
 [[files]]
@@ -90,8 +100,18 @@ hash = "0cc365d0b8dc524a0b857c8bd162a478b1f52e5a307f18b32ef8c8091ad29259"
 metafile = true
 
 [[files]]
+file = "mods/ctlibmod.pw.toml"
+hash = "93f9047e87518653b89b55a5bd8f4f7aff866507874578354258ae6cdf925a4b"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
+metafile = true
+
+[[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "e637b69cc2b5a4ea81e51eb533f949e4d22668606f4387abaae90b3e65c962c1"
 metafile = true
 
 [[files]]
@@ -150,6 +170,11 @@ hash = "cac50699a0bdf724088c18d1227a5d229fae838a99fb39d77a2cbdb605572d03"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
+metafile = true
+
+[[files]]
 file = "mods/lavender.pw.toml"
 hash = "950fa2f1932db70d0173ba4867a4944d84113215f7f4bb984378cfff26719151"
 metafile = true
@@ -180,6 +205,11 @@ hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
+metafile = true
+
+[[files]]
 file = "mods/moving-elevators.pw.toml"
 hash = "f38008954dbeda44cfeda579da16b73a77b67637eb7320ecc9f2366dab6b2d93"
 metafile = true
@@ -187,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "d17301f2e3cb2c1d5a11391096f1b06c7d1d4bafaaf96dec3def6a376b96396c"
+metafile = true
+
+[[files]]
+file = "mods/nebula.pw.toml"
+hash = "23d46e25a7052efb3298a857440622d92dd3967c4ee003948ee2e0a8f910dc86"
 metafile = true
 
 [[files]]
@@ -207,6 +242,16 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "2205e3bc9e060ed011eb6252b27973d8184b7d54d8240cb92baf7196f3bf7eab"
+metafile = true
+
+[[files]]
+file = "mods/pigsteel-fabric.pw.toml"
+hash = "60f93b079a45038218e46ea92d27375d0504ee39a7bf7791ae5588a0c262cbdf"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
 metafile = true
 
 [[files]]
@@ -245,6 +290,16 @@ hash = "11d45d83c817b2fa8572d7668d294763449b0fa62bde431665dcb833a9e581d3"
 metafile = true
 
 [[files]]
+file = "mods/tonekomod.pw.toml"
+hash = "14a6b8badb5e399d929e0b67907579d5ad6b48fc35eb6f39447ad468916e4fab"
+metafile = true
+
+[[files]]
+file = "mods/too-many-paintings.pw.toml"
+hash = "30f38662e43d377ef36cd05e3c568e447f7183a43dc59e2561c737667faa532c"
+metafile = true
+
+[[files]]
 file = "mods/trickster.pw.toml"
 hash = "57badffb92671ac9dc2086e928d89b7f9ad83b0d690bf6d7e4aa8e0dd0303516"
 metafile = true
@@ -272,4 +327,9 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/zauber.pw.toml"
+hash = "c1ce2ccdef16e1b78cfad93107e10100f11a3388c32b071705038665bad81f06"
 metafile = true
