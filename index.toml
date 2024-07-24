@@ -55,11 +55,6 @@ hash = "375d07f4277a3384f8b476efb424dea0b53931f83af339c7fa149d45c5a48913"
 metafile = true
 
 [[files]]
-file = "mods/adventurez.pw.toml"
-hash = "67c64d77193901bb408c1c541e8405da11a8b87463d1caa0a0bbb356a195a3e4"
-metafile = true
-
-[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "23d57efa52911d3693d539fe5ba59f939ce13aae986e2200c3b2bb16dbdbb3a8"
 metafile = true
@@ -97,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "0cc365d0b8dc524a0b857c8bd162a478b1f52e5a307f18b32ef8c8091ad29259"
+metafile = true
+
+[[files]]
+file = "mods/creeper-healing.pw.toml"
+hash = "e59e1130db782744ff73219a298216555945e648c6e43f056dae4fe99bcd1867"
 metafile = true
 
 [[files]]
@@ -207,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
+metafile = true
+
+[[files]]
+file = "mods/monkey-config.pw.toml"
+hash = "630bd0430ec1e60f5c3393b852a9844d5867016146e9caba7b8335e1517aa1c4"
 metafile = true
 
 [[files]]
