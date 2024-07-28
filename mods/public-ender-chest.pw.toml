@@ -1,0 +1,13 @@
+name = "Public Ender Chest"
+filename = "publicenderchest-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/72qdVlp0/versions/6lgj6sts/publicenderchest-1.0.1.jar"
+hash-format = "sha1"
+hash = "ca24bde3efaf5acf514b7449301fb6db9f4a0285"
+
+[update]
+[update.modrinth]
+mod-id = "72qdVlp0"
+version = "6lgj6sts"

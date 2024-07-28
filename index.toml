@@ -80,6 +80,11 @@ hash = "fa6e9e9fdae2076a024ad68f147b535e3d8acbedb8a4bf9a7f8dc0e0813cc5bd"
 metafile = true
 
 [[files]]
+file = "mods/blahaj_fabric.pw.toml"
+hash = "6432cf1725b4b570cbdec0135cb1ed5cc64a0e09a15ee4d8a72daf8996524ba7"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "8c3342aeba36b5ff34c10f0ad6c13bbeb7ea4f040683aba80e83776697ceda0d"
 metafile = true
@@ -115,6 +120,11 @@ hash = "e637b69cc2b5a4ea81e51eb533f949e4d22668606f4387abaae90b3e65c962c1"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "bcd6ab63410cedbf87e7056337ddf50059655c59a23189520a22eab8419b8415"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "a89158810657bf4a9cae0d45183a2ef5e7e327fb7e4aadb6743a6892370316a8"
 metafile = true
@@ -135,8 +145,23 @@ hash = "9e796b52f72bd9eee7d716a5014d8214956ed3f7661d0f44af85c8a86775bbbf"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "75ffe202cd8947bbbb748a46bcd9d1cfb55d34a2fc95909b3001ac8433625fb7"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "686e90c9d7a1232f57f454e57a1f1489b986144faf2d42984a183df507024621"
 metafile = true
 
 [[files]]
@@ -260,6 +285,11 @@ hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
 metafile = true
 
 [[files]]
+file = "mods/public-ender-chest.pw.toml"
+hash = "39c595bf2b7ebba398c49e98d102615392d948e906f51a8413c6024fbe5c1317"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "77c269bed256ef2e2279fa2edba0f6724b9f8e978f0985471230a2e1d695ffc7"
 metafile = true
@@ -287,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "2d868b98d488238e0dddd52b150a6578e8476eb7bcf107c5ab25096741112f05"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "e47721f3247e54695165ea8bc148ed54c1d66f280fae784a6b05528582917cdb"
 metafile = true
 
 [[files]]

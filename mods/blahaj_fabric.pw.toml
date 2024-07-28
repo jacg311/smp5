@@ -1,0 +1,13 @@
+name = "Blahaj (Fabric) - replushed"
+filename = "blahaj-fabric-1.21-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5bb5rG4b/versions/3rGg0FOJ/blahaj-fabric-1.21-2.0.0.jar"
+hash-format = "sha1"
+hash = "5057245629a152477de0db16e37d0e7783d82319"
+
+[update]
+[update.modrinth]
+mod-id = "5bb5rG4b"
+version = "3rGg0FOJ"
