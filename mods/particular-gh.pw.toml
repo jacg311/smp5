@@ -1,0 +1,7 @@
+name = "Particular"
+filename = "particular-1.1.1+MC1.21.jar"
+
+[download]
+url = "https://github.com/jacg311/smp5/releases/download/particular1.21/particular-1.1.1.jar"
+hash-format = "sha1"
+hash= "194533336b9960cc4041915f6191c6cd93c324f7"

@@ -200,6 +200,11 @@ hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
 metafile = true
 
 [[files]]
+file = "mods/lambda-better-grass-gh.pw.toml"
+hash = "b209cb28d447e793965bc0b79c968e981f7a2f66ee7b30959f382228342aeddc"
+metafile = true
+
+[[files]]
 file = "mods/lavender.pw.toml"
 hash = "950fa2f1932db70d0173ba4867a4944d84113215f7f4bb984378cfff26719151"
 metafile = true
@@ -272,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "2205e3bc9e060ed011eb6252b27973d8184b7d54d8240cb92baf7196f3bf7eab"
+metafile = true
+
+[[files]]
+file = "mods/particular-gh.pw.toml"
+hash = "f7dcee494af30a274444545066064dcb781394d87edb0b2e30c2bed571fff430"
 metafile = true
 
 [[files]]

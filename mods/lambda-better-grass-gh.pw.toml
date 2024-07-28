@@ -1,0 +1,7 @@
+name = "Lambda Better Grass"
+filename = "lambdabettergrass-1.5.2"
+
+[download]
+url = "https://github.com/jacg311/smp5/releases/download/lambdabettergrass1.21/lambdabettergrass-1.5.2.jar"
+hash-format = "sha1"
+hash= "2cf69a50b23b163582ca88d027da665045d1020d"
