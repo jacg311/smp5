@@ -5,3 +5,8 @@ filename = "figura-0.1.5-rc.1+1.21-fabric-mc.jar"
 url = "https://github.com/FiguraMC/Figura/releases/download/0.1.5-rc.1/figura-0.1.5-rc.1+1.21-fabric-mc.jar"
 hash-format = "sha256"
 hash = "6c7fbde070cb550cd6b47c463a065e59dabdecac1eb93e031f7f0ebbaae04951"
+
+[option]
+optional = true
+default = true
+description = "Rai and Auri will be actively using this, but if you have performance issues, feel free to disable this :3."

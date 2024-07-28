@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "bcd6ab63410cedbf87e7056337ddf50059655c59a23189520a22eab8419b8415"
+hash = "c13d3acc7ebdbb60cd0bb97a63a75459f7d5fc15899e6c4dd08b5c621a68cfe7"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "5cfdebf79480f71e84191358887f49eb8cc59b7d937f2e5be73fb8267606da2b"
+hash = "d5bc11ce33a70cbf8e358b621ec66db81c4fc0eedda03ecf59fadb6738a4cf27"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "a0f60591c5fc8f102910298f29e094581f23c807a10bf4c4ccd3fe2f118c55b1"
+hash = "817c32d039af4023ee6785b13966fc944f23aa34a9f564e02e21e7883e550604"
 metafile = true
 
 [[files]]
