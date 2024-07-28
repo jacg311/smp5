@@ -46,17 +46,17 @@ hash = "2be2b5c10139cacd044848f7ecc86e345ae2d7ae855baeeb1e8e87b4342194eb"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
-hash = "ac8c32a282a2e2526ea8870ba5073ad515b7d057f2d0fe50b5be8b95a07bfb5d"
+hash = "81068d555b5b6d7a8387628f50d67e1f972886d1481129015834336ad8956f48"
 metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "375d07f4277a3384f8b476efb424dea0b53931f83af339c7fa149d45c5a48913"
+hash = "38326d9d24fe7e5829d4a5b3703c66165d8bc641d2a5f2a52c9d9001424487d3"
 metafile = true
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
-hash = "23d57efa52911d3693d539fe5ba59f939ce13aae986e2200c3b2bb16dbdbb3a8"
+hash = "46c73dc6ecd6d473ed3e8e687e6074764387df476e7b761c86147a8dcb2a27ce"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a89158810657bf4a9cae0d45183a2ef5e7e327fb7e4aadb6743a6892370316a8"
+hash = "03233a7e383409b517598e0c9d10c8a45c6035a35f163d15337a7bae044c4319"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-circuit.pw.toml"
-hash = "8a06f08e5bf08496b94c45751ea14249cb34cae462f6ea6cdc65155e7fe46bae"
+hash = "eb06c088bc17d05d1f53d57941bb3ba08405757223475d5322d0de150cf248bf"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
+hash = "ca5ec031a590d0ad2e4feaf61853ce2ed0f0a78f8b7a8627cf183250f0e63d88"
 metafile = true
 
 [[files]]
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/small-ships.pw.toml"
-hash = "77c269bed256ef2e2279fa2edba0f6724b9f8e978f0985471230a2e1d695ffc7"
+hash = "be15bd9b1d7e7bee964473fe3c8467a3c324c4611aab36c27d2813a245e61973"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "9e73e28e43b6d58e137ed242da3b90a308a52c8cde93d2292b5a2c710c41ee48"
+hash = "441409a44a8eaad301f4ddd23be3b33eb4438fb3c406ccd04b22adfca43d8344"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/tonekomod.pw.toml"
-hash = "14a6b8badb5e399d929e0b67907579d5ad6b48fc35eb6f39447ad468916e4fab"
+hash = "125365adf46349ca281119a63d142462e4fb46f18a4c63d719646722b8f13127"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "57badffb92671ac9dc2086e928d89b7f9ad83b0d690bf6d7e4aa8e0dd0303516"
+hash = "76abdfbe4faee91e98635751a2bdf5446311e6a565b8287d3e6757b564f2c58a"
 metafile = true
 
 [[files]]
