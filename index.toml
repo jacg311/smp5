@@ -290,6 +290,11 @@ hash = "349f5aa9192539c3ce0d2c962ae05a2b4d75a75635c5e28c3f718fda72c79b71"
 metafile = true
 
 [[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "47f673ce50dc6fdfd8e40f47035b9454b1130298f77dec65c14908fa4955213b"
+metafile = true
+
+[[files]]
 file = "mods/particular-gh.pw.toml"
 hash = "f7dcee494af30a274444545066064dcb781394d87edb0b2e30c2bed571fff430"
 metafile = true
