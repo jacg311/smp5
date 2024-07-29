@@ -115,6 +115,11 @@ hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
 metafile = true
 
 [[files]]
+file = "mods/disenchanter.pw.toml"
+hash = "f1fcaa56dc1d496e4ef497c3469ad3bf90d8cf1e3588ca27433363d4f0ae2c47"
+metafile = true
+
+[[files]]
 file = "mods/distant-friends.pw.toml"
 hash = "e637b69cc2b5a4ea81e51eb533f949e4d22668606f4387abaae90b3e65c962c1"
 metafile = true

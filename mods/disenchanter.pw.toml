@@ -1,0 +1,13 @@
+name = "Disenchanter"
+filename = "disenchanter-0.1.10+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OQ8To4FT/versions/OVcatXhy/disenchanter-0.1.10%2B1.21.jar"
+hash-format = "sha1"
+hash = "ad466081a30105d20de14d93e2243c60657eba3d"
+
+[update]
+[update.modrinth]
+mod-id = "OQ8To4FT"
+version = "OVcatXhy"
