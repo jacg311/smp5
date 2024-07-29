@@ -1,6 +1,6 @@
 name = "Public Ender Chest"
 filename = "publicenderchest-1.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/72qdVlp0/versions/6lgj6sts/publicenderchest-1.0.1.jar"

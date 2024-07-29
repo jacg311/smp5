@@ -1,6 +1,6 @@
 name = "Invariable Paintings"
 filename = "invariable-paintings-2.1.0+1.21.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/KodbCbpa/versions/NPWVIYuL/invariable-paintings-2.1.0%2B1.21.jar"

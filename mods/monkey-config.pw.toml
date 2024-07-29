@@ -1,6 +1,6 @@
 name = "Monkey Config"
 filename = "monkeyconfig-0.1.2+1.21.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uApL7Qhc/versions/LdbqkLBw/monkeyconfig-0.1.2%2B1.21.jar"

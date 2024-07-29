@@ -1,6 +1,6 @@
 name = "Creeper Healing"
 filename = "creeper-healing-1.1.0-1.21+.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/umAqxZ6n/versions/x7Gm8yoX/creeper-healing-1.1.0-1.21%2B.jar"
