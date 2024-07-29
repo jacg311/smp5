@@ -355,6 +355,11 @@ hash = "76abdfbe4faee91e98635751a2bdf5446311e6a565b8287d3e6757b564f2c58a"
 metafile = true
 
 [[files]]
+file = "mods/versecraft.pw.toml"
+hash = "ddaa435381c305c46d43f4929452b6d8491013f4b29fec5e9cb1ce351c413fc4"
+metafile = true
+
+[[files]]
 file = "mods/waterframes.pw.toml"
 hash = "864d64ce47f96da4114ad1b3d5f5dd5d3c613cb3545bb59c0cd63f62bb7d3d15"
 metafile = true
