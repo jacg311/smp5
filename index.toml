@@ -330,6 +330,11 @@ hash = "441409a44a8eaad301f4ddd23be3b33eb4438fb3c406ccd04b22adfca43d8344"
 metafile = true
 
 [[files]]
+file = "mods/splinecart.pw.toml"
+hash = "626d81f721db8ef70b677aafebc1ba862841554ce4b20a4fa268b430fd5aadb8"
+metafile = true
+
+[[files]]
 file = "mods/superb-steeds.pw.toml"
 hash = "b583669dd3c454c43ce6954e7c8268fde93cf07f12442dfa86a9dde307adbec2"
 metafile = true
