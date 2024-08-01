@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "a050bd6fd8235bee1015ff5262043ec5872fee7a43b49d1f87e588cc13bc8b23"
+hash = "25eb4c1817a94d50eadefbb2dfe5b6ee613de0ac8c3f7b2a69e0f9667d13cbe7"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "76abdfbe4faee91e98635751a2bdf5446311e6a565b8287d3e6757b564f2c58a"
+hash = "77012267de48fc5d07cc9be56cb5dbd8333559624f56c33ed0290f0182375efe"
 metafile = true
 
 [[files]]
@@ -390,8 +390,13 @@ hash = "f4b00250499d238c56ad286c406e7d3f37118deefdc0711071bc31f66ee48c15"
 metafile = true
 
 [[files]]
+file = "mods/wearthat.pw.toml"
+hash = "85517bd0a8b596f03bc3fe0234369748af1ed6e49db3b7f6369b982dc6f96cd7"
+metafile = true
+
+[[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "7b8cbf55c0950801444ab007d1bf6afec03ad59e715b0a5b9ab157b38fb0f1ac"
+hash = "81c59358c66b1873e7375ddd9d409a82c150c071a491f053f9d4d9bfce6fa6a2"
 metafile = true
 
 [[files]]
