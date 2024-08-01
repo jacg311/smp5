@@ -225,6 +225,11 @@ hash = "950fa2f1932db70d0173ba4867a4944d84113215f7f4bb984378cfff26719151"
 metafile = true
 
 [[files]]
+file = "mods/ledger.pw.toml"
+hash = "be01c706542e5e1a1dd4f960f2405dbed2aa4d3a15168d2e8c49e2ba9e070030"
+metafile = true
+
+[[files]]
 file = "mods/lightwithin.pw.toml"
 hash = "14c0a8cce336d7f5b16b9e1afd044e1c6746c12344855f794c75cbf86ed860a4"
 metafile = true
