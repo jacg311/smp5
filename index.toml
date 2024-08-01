@@ -65,6 +65,11 @@ hash = "420663a6a26a3d60ca7bd07f942ba7ab3379daaf26772181a040e2caf97ff6e7"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
+metafile = true
+
+[[files]]
 file = "mods/artsandcrafts.pw.toml"
 hash = "25eb4c1817a94d50eadefbb2dfe5b6ee613de0ac8c3f7b2a69e0f9667d13cbe7"
 metafile = true
@@ -72,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
+metafile = true
+
+[[files]]
+file = "mods/ballspack-mod.pw.toml"
+hash = "030178be142f9b38c5b9f555facd4764558470c9ab2f4e8323434a1d7ea48734"
 metafile = true
 
 [[files]]
@@ -215,6 +225,16 @@ hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "82f3eb78b1c9895044d08b3563e5bf0267b39326120be615398a259873cd1242"
+metafile = true
+
+[[files]]
+file = "mods/knockdowns.pw.toml"
+hash = "844c6183a3b039f72a9b3d74a594c45bdfa98ee1f0ca61eccbfe7c1c0ed7c355"
+metafile = true
+
+[[files]]
 file = "mods/lambda-better-grass-gh.pw.toml"
 hash = "b209cb28d447e793965bc0b79c968e981f7a2f66ee7b30959f382228342aeddc"
 metafile = true
@@ -280,6 +300,11 @@ hash = "23d46e25a7052efb3298a857440622d92dd3967c4ee003948ee2e0a8f910dc86"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "2c01aa1d951349c8d4cb3e435bb030fa0cb6cbb12acb56739dbed547007eaa48"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "187a72ac973f74f60ee363a52901f66fb3063e229d830cee3ab6920c13a53d87"
 metafile = true
@@ -327,6 +352,16 @@ metafile = true
 [[files]]
 file = "mods/public-ender-chest.pw.toml"
 hash = "9865e63bf67a92733521117b39184c72139ea60877afab55959fb60e0d8b2d36"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "94a04d1f3e30ce411ae630d33fe386eaeedf4153b3f6b5985c2774b111455278"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "b3fa4641182587001a14bf8c038505ff774eccfdbd59be3ea03390b253395c21"
 metafile = true
 
 [[files]]
