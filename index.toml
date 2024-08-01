@@ -320,6 +320,11 @@ hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "4e408b9b0fce350a6c3e70ba2c9c9b85a9a95f824f412f9fe1149dc18f7ba997"
+metafile = true
+
+[[files]]
 file = "mods/public-ender-chest.pw.toml"
 hash = "9865e63bf67a92733521117b39184c72139ea60877afab55959fb60e0d8b2d36"
 metafile = true
@@ -377,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/trickster.pw.toml"
 hash = "77012267de48fc5d07cc9be56cb5dbd8333559624f56c33ed0290f0182375efe"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "203f79eb4b628e5c782825349e24d9c4aed93dd3ea4c01c76115ef508daee8fb"
 metafile = true
 
 [[files]]
