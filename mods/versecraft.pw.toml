@@ -1,13 +1,13 @@
 name = "VerseCraft"
-filename = "VerseCraft-3.1.0-mc1.21.jar"
+filename = "VerseCraft-3.1.1-mc1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PkgiQPwK/versions/UuEgZoKL/VerseCraft-3.1.0-mc1.21.jar"
+url = "https://cdn.modrinth.com/data/PkgiQPwK/versions/7L2s6Cgs/VerseCraft-3.1.1-mc1.21.jar"
 hash-format = "sha1"
-hash = "393fb465f47137321cf1739895466512bda67f81"
+hash = "44411c07b085e2b647620495a3ed650333884f50"
 
 [update]
 [update.modrinth]
 mod-id = "PkgiQPwK"
-version = "UuEgZoKL"
+version = "7L2s6Cgs"

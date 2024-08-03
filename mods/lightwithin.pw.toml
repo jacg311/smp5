@@ -1,13 +1,13 @@
 name = "LightWithin - Player-unique powers!"
-filename = "lightwithin-1.1.2+1.21.jar"
+filename = "lightwithin-1.1.3+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/f8LsKKPu/versions/MyZxK70A/lightwithin-1.1.2%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/f8LsKKPu/versions/5uQFJhxo/lightwithin-1.1.3%2B1.21.jar"
 hash-format = "sha1"
-hash = "542ec3a139513382b01d561bfb25a1c26ca530b3"
+hash = "c91dfde074b1742d758bad7d5173f9b3041b9d79"
 
 [update]
 [update.modrinth]
 mod-id = "f8LsKKPu"
-version = "MyZxK70A"
+version = "5uQFJhxo"
