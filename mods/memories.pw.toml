@@ -1,0 +1,13 @@
+name = "Memories Are All We Have"
+filename = "memories-are-all-we-have-1.1.0+1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vGj8LFja/versions/1ActJDvk/memories-are-all-we-have-1.1.0%2B1.20.4.jar"
+hash-format = "sha1"
+hash = "9b8b097326cc1405c480c2c8d716f486f5aa243f"
+
+[update]
+[update.modrinth]
+mod-id = "vGj8LFja"
+version = "1ActJDvk"

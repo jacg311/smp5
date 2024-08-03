@@ -90,8 +90,13 @@ hash = "41a3403cc9a84fab7cf68756a1edddcde6d0d2b1314ca7b70a3c11f4bc95f897"
 metafile = true
 
 [[files]]
-file = "mods/blahaj_fabric.pw.toml"
-hash = "6432cf1725b4b570cbdec0135cb1ed5cc64a0e09a15ee4d8a72daf8996524ba7"
+file = "mods/blahaj-beyond.pw.toml"
+hash = "6f7237a5525ab254f26b745d0775a3786e1eb1e092d7ea4e126b55e390c9bdb8"
+metafile = true
+
+[[files]]
+file = "mods/blahaj-of-undying.pw.toml"
+hash = "c790aa6124ce4794e83aede7f7b28fa5ba4884d9225825fd3eea1b56e5653611"
 metafile = true
 
 [[files]]
@@ -137,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "734ab838ec516926cb59d50ba4961b71df51b7c6512c839e2cdaf5cd7658fbee"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "616c7ca64b9f4af3f5283eaae4cb0be10cff8059e8db9c4e7d7b4422474aa8b1"
 metafile = true
 
 [[files]]
@@ -270,6 +280,16 @@ hash = "75990ee8fe4f4b5e72631c49e6c0d58fe05244288ff94ca377fea80dcfb9a216"
 metafile = true
 
 [[files]]
+file = "mods/memories.pw.toml"
+hash = "13efcc3ec1b464baba0b031bc4c86b5500989d92202ccbafaa78befedf1edd08"
+metafile = true
+
+[[files]]
+file = "mods/moderate-loading-screen.pw.toml"
+hash = "a19f707a7da215ef8103d35d5b1e5e50a373e4432d5b74eefd51004a732d1919"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "ca5ec031a590d0ad2e4feaf61853ce2ed0f0a78f8b7a8627cf183250f0e63d88"
 metafile = true
@@ -320,6 +340,11 @@ hash = "fd4c866309b4e7b9f7b8bfb1a5d62cad5e8e8782a077a91b3669e255a658a679"
 metafile = true
 
 [[files]]
+file = "mods/omnihopper.pw.toml"
+hash = "ef596c145d656c54cd2ac81ba3b5b021216b79770f27dd6c01e5b6b3433b2f7b"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "349f5aa9192539c3ce0d2c962ae05a2b4d75a75635c5e28c3f718fda72c79b71"
 metafile = true
@@ -362,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "b3fa4641182587001a14bf8c038505ff774eccfdbd59be3ea03390b253395c21"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "b0e0ec47b09ae328d75c3d93f5cfaf6d7ee39739f9a38f559fa3faad6321e200"
 metafile = true
 
 [[files]]
