@@ -85,13 +85,13 @@ hash = "80bb75efbcc43897b3e5871a5d6861397bad58a5b8243e8674a9f78ef58d774a"
 metafile = true
 
 [[files]]
-file = "mods/blahaj-beyond.pw.toml"
-hash = "6f7237a5525ab254f26b745d0775a3786e1eb1e092d7ea4e126b55e390c9bdb8"
+file = "mods/blahaj-of-undying.pw.toml"
+hash = "c790aa6124ce4794e83aede7f7b28fa5ba4884d9225825fd3eea1b56e5653611"
 metafile = true
 
 [[files]]
-file = "mods/blahaj-of-undying.pw.toml"
-hash = "c790aa6124ce4794e83aede7f7b28fa5ba4884d9225825fd3eea1b56e5653611"
+file = "mods/blahaj_fabric.pw.toml"
+hash = "6432cf1725b4b570cbdec0135cb1ed5cc64a0e09a15ee4d8a72daf8996524ba7"
 metafile = true
 
 [[files]]
