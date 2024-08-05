@@ -1,3 +1,3 @@
 simulationDistance:5
 onboardAccessibility:true
-renderDistance:32
+renderDistance:16
