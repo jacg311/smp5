@@ -42,7 +42,7 @@ hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "2be2b5c10139cacd044848f7ecc86e345ae2d7ae855baeeb1e8e87b4342194eb"
+hash = "7563351e4cb4b3df9846a091d76b34698db72c5a093c29a40bcf820ecbb077ea"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
@@ -92,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/blahaj_fabric.pw.toml"
 hash = "6432cf1725b4b570cbdec0135cb1ed5cc64a0e09a15ee4d8a72daf8996524ba7"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "5e0adbaf5a22a684b1691eea9a8c4daa6b1eb2b5d821ac83c558ef015d15d51a"
 metafile = true
 
 [[files]]
