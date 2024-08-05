@@ -1,7 +1,7 @@
 name = "ballspack_mod"
-filename = "ballspack_mod-1.1.0.jar"
+filename = "ballspack_mod-1.2.0.jar"
 
 [download]
-url = "https://maven.enjarai.dev/releases/dev/enjarai/ballspack_mod/1.1.0/ballspack_mod-1.1.0.jar"
+url = "https://maven.enjarai.dev/releases/dev/enjarai/ballspack_mod/1.2.0/ballspack_mod-1.2.0.jar"
 hash-format = "sha256"
-hash = "b0b5edb05fc8afda44604cc84e9f47d4b1ad94f6a6b66667fb47beeb42f5f8ab"
+hash = "b58653bf05cd8ec62118fe1878cac63931294180f83286b298bc439cd111a5c7"
