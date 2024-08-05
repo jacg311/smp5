@@ -105,6 +105,11 @@ hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
 metafile = true
 
 [[files]]
+file = "mods/continents.pw.toml"
+hash = "8c5ccc06feefd734a629295ba79f7120b02b2e157c793c16564b58e64ded415d"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "49f9898e97206a5407ca32e7fee73cf7bd901e0c4406da8bb4adbc31525f1397"
 metafile = true
@@ -117,11 +122,6 @@ metafile = true
 [[files]]
 file = "mods/ctlibmod.pw.toml"
 hash = "93f9047e87518653b89b55a5bd8f4f7aff866507874578354258ae6cdf925a4b"
-metafile = true
-
-[[files]]
-file = "mods/cull-less-leaves.pw.toml"
-hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
 metafile = true
 
 [[files]]
@@ -412,11 +412,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "2d868b98d488238e0dddd52b150a6578e8476eb7bcf107c5ab25096741112f05"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "e47721f3247e54695165ea8bc148ed54c1d66f280fae784a6b05528582917cdb"
 metafile = true
 
 [[files]]
