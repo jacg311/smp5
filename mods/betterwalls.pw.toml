@@ -1,0 +1,13 @@
+name = "Better Walls"
+filename = "betterwalls-3.5.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/uYYEtS6i/versions/9Cw5Vq0Y/betterwalls-3.5.1.jar"
+hash-format = "sha1"
+hash = "5493ac8ea6739ed6d881f638a6032f9def45f13e"
+
+[update]
+[update.modrinth]
+mod-id = "uYYEtS6i"
+version = "9Cw5Vq0Y"

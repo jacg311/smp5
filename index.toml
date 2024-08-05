@@ -46,12 +46,12 @@ hash = "3c2d16eba3965185938cefe5f57eb4df21cfcce291f424d1dcf576c1d466c6c8"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
-hash = "f896e37e6d4a84c1fac1c31dae06983b2172df9d7ff395ec24df0d86df8f8961"
+hash = "a483aaaecf54158b11fbc5f1f16d63cdce098de3c9f2ce235adc0b0e8529dfd3"
 metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "1a3d274833403cc4fadb15b0d8ec2c5542ca8f6d7c1476e040e0bbac9167e99b"
+hash = "dff6a5cb0f8d51f770d302cb9c0338be0e96aebe11fd57e79729a99879e73828"
 metafile = true
 
 [[files]]
@@ -75,6 +75,11 @@ hash = "25eb4c1817a94d50eadefbb2dfe5b6ee613de0ac8c3f7b2a69e0f9667d13cbe7"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "b5ab061f078e160c2d6b60b43fa4e35860306f1e7bb5e3323dd3689d4f1a24ba"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
 metafile = true
@@ -82,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/ballspack-mod.pw.toml"
 hash = "73969fd8e6bc24974627c19b44e2becbc6a8ce2eebaeae4306a1e2f31d428987"
+metafile = true
+
+[[files]]
+file = "mods/betterwalls.pw.toml"
+hash = "6f7f07cf0466e5120aa65a6a109e2c05ff6827861d4e7759d15b556749d23c53"
 metafile = true
 
 [[files]]
@@ -112,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/continents.pw.toml"
 hash = "8c5ccc06feefd734a629295ba79f7120b02b2e157c793c16564b58e64ded415d"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "4a9f9c1bc8b5cd47f2e7e243af68e697f7c5803d19e47b2c519653f83f6cb905"
 metafile = true
 
 [[files]]
@@ -176,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
+hash = "9eb8a17e98af61f820864ce9fbe246cee75a3b86f51df8a9b92644829ea2faf8"
 metafile = true
 
 [[files]]
@@ -231,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "82f3eb78b1c9895044d08b3563e5bf0267b39326120be615398a259873cd1242"
+hash = "e58abb9a99fb58e21c0f114b0c013e23165efcd5b9d0032e42dd49aaa831f565"
 metafile = true
 
 [[files]]
@@ -377,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "b3fa4641182587001a14bf8c038505ff774eccfdbd59be3ea03390b253395c21"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "6337ceb74ee951a937b2768544a1bf11812aa92628a81b9a13e66c687f9853fb"
 metafile = true
 
 [[files]]
