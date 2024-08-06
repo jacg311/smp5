@@ -75,11 +75,6 @@ hash = "25eb4c1817a94d50eadefbb2dfe5b6ee613de0ac8c3f7b2a69e0f9667d13cbe7"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie.pw.toml"
-hash = "b5ab061f078e160c2d6b60b43fa4e35860306f1e7bb5e3323dd3689d4f1a24ba"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
 metafile = true
