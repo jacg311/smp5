@@ -180,6 +180,11 @@ hash = "f0ab69070fefbc85039133adf4015dc0a403a45d5c00713d6200b0943a310398"
 metafile = true
 
 [[files]]
+file = "mods/enchants-cit.pw.toml"
+hash = "733e3eac83a4431780120f72ab0deea399605dd3c3bcc54b924a3121d6adbf66"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "f1cfb6d5b1aeae9d349d909fc3170f60332b6347493543a2e4f1f0801f4a5d4d"
 metafile = true
@@ -241,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "e58abb9a99fb58e21c0f114b0c013e23165efcd5b9d0032e42dd49aaa831f565"
+hash = "72acc0c012c32239b33b9dd388b0144f8b59328b666cd81e1977bf5a23bf1f33"
 metafile = true
 
 [[files]]
@@ -355,8 +360,8 @@ hash = "47f673ce50dc6fdfd8e40f47035b9454b1130298f77dec65c14908fa4955213b"
 metafile = true
 
 [[files]]
-file = "mods/particular-gh.pw.toml"
-hash = "f7dcee494af30a274444545066064dcb781394d87edb0b2e30c2bed571fff430"
+file = "mods/particular.pw.toml"
+hash = "d878e8159739d1ea9a40185d4ace5c0185343f53310e354c2c0afb4b19d2e563"
 metafile = true
 
 [[files]]
@@ -391,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "6337ceb74ee951a937b2768544a1bf11812aa92628a81b9a13e66c687f9853fb"
+hash = "7c38e774601bb8cc6348a75a542b9266c06bdb31dc29cd15c3648ae0fad739d1"
 metafile = true
 
 [[files]]
@@ -446,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "77012267de48fc5d07cc9be56cb5dbd8333559624f56c33ed0290f0182375efe"
+hash = "5b406578e1c34b0359bc6a326c8ec5c4dc5ad491347dd6a6f215e66fd55da467"
 metafile = true
 
 [[files]]

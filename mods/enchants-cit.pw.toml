@@ -1,0 +1,13 @@
+name = "Enchants CIT"
+filename = "enchants-cit-1.0.0+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jURjbCaq/versions/6PgNWKdT/enchants-cit-1.0.0%2B1.21.jar"
+hash-format = "sha1"
+hash = "d5251406414f149fe3407d1f1d035da3b6a676b1"
+
+[update]
+[update.modrinth]
+mod-id = "jURjbCaq"
+version = "6PgNWKdT"
