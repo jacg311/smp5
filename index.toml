@@ -454,11 +454,6 @@ hash = "11d45d83c817b2fa8572d7668d294763449b0fa62bde431665dcb833a9e581d3"
 metafile = true
 
 [[files]]
-file = "mods/too-many-paintings.pw.toml"
-hash = "30f38662e43d377ef36cd05e3c568e447f7183a43dc59e2561c737667faa532c"
-metafile = true
-
-[[files]]
 file = "mods/trickster.pw.toml"
 hash = "5b406578e1c34b0359bc6a326c8ec5c4dc5ad491347dd6a6f215e66fd55da467"
 metafile = true
