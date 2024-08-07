@@ -45,6 +45,10 @@ file = "config/yosbr/options.txt"
 hash = "3c2d16eba3965185938cefe5f57eb4df21cfcce291f424d1dcf576c1d466c6c8"
 
 [[files]]
+file = "config/yosbr/servers.dat"
+hash = "ade3dae1c4cce753f928bb6ed153bce7ade62c58cdef033525e1464baa41db2c"
+
+[[files]]
 file = "mods/accessories-tc-layer.pw.toml"
 hash = "a483aaaecf54158b11fbc5f1f16d63cdce098de3c9f2ce235adc0b0e8529dfd3"
 metafile = true
@@ -437,6 +441,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "2d868b98d488238e0dddd52b150a6578e8476eb7bcf107c5ab25096741112f05"
+metafile = true
+
+[[files]]
+file = "mods/teabridge.pw.toml"
+hash = "bec62b64e255b592feb9b7d1e88e4eb535836a37f22a6ae97fe40842275a3814"
 metafile = true
 
 [[files]]
