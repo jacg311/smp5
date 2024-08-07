@@ -150,11 +150,6 @@ hash = "e637b69cc2b5a4ea81e51eb533f949e4d22668606f4387abaae90b3e65c962c1"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "734ab838ec516926cb59d50ba4961b71df51b7c6512c839e2cdaf5cd7658fbee"
-metafile = true
-
-[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "616c7ca64b9f4af3f5283eaae4cb0be10cff8059e8db9c4e7d7b4422474aa8b1"
 metafile = true
@@ -206,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "817c32d039af4023ee6785b13966fc944f23aa34a9f564e02e21e7883e550604"
+hash = "a0f60591c5fc8f102910298f29e094581f23c807a10bf4c4ccd3fe2f118c55b1"
 metafile = true
 
 [[files]]
