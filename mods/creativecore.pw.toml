@@ -1,6 +1,6 @@
 name = "CreativeCore"
 filename = "CreativeCore_FABRIC_v2.12.6_mc1.21.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/HXHXexC5/CreativeCore_FABRIC_v2.12.6_mc1.21.jar"
