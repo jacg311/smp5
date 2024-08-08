@@ -349,11 +349,6 @@ hash = "ec4bc8b7c36db2dcf3f19b4e03df845c36e18477739a34531de66e2fa75ef2dc"
 metafile = true
 
 [[files]]
-file = "mods/nyfs-spiders.pw.toml"
-hash = "fd4c866309b4e7b9f7b8bfb1a5d62cad5e8e8782a077a91b3669e255a658a679"
-metafile = true
-
-[[files]]
 file = "mods/omnihopper.pw.toml"
 hash = "ef596c145d656c54cd2ac81ba3b5b021216b79770f27dd6c01e5b6b3433b2f7b"
 metafile = true
