@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "4a9f9c1bc8b5cd47f2e7e243af68e697f7c5803d19e47b2c519653f83f6cb905"
+hash = "ed3d2b9957ff1b877d4dfc68209f6032238ce1eba6e85a3129009c92b0801e07"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "7c38e774601bb8cc6348a75a542b9266c06bdb31dc29cd15c3648ae0fad739d1"
+hash = "0a80692da4b6afda0ecb78d0fbddcbbdf22c87b969673a46b8df7abec88377dc"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "5b406578e1c34b0359bc6a326c8ec5c4dc5ad491347dd6a6f215e66fd55da467"
+hash = "b1ef303a83be5dd39109b0155e0702a706f4d3c8a27a8fcfd1faee48754614af"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "81c59358c66b1873e7375ddd9d409a82c150c071a491f053f9d4d9bfce6fa6a2"
+hash = "0442dd788e91191afa940f8ef8866fed9ba40ae0e1ebed9fe0616a50f655adff"
 metafile = true
 
 [[files]]
