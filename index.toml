@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/ctlibmod.pw.toml"
-hash = "93f9047e87518653b89b55a5bd8f4f7aff866507874578354258ae6cdf925a4b"
+hash = "24f8663bfaf2fa9c4cfb17af5335c03fc0fbc6a567ad7edb1ad4e938b55ea1a8"
 metafile = true
 
 [[files]]
@@ -464,8 +464,13 @@ hash = "11d45d83c817b2fa8572d7668d294763449b0fa62bde431665dcb833a9e581d3"
 metafile = true
 
 [[files]]
+file = "mods/transmog.pw.toml"
+hash = "7f8c6d92249f8483db121b740b78137426213a7fb2b4417ba57bc6bb3971fb9f"
+metafile = true
+
+[[files]]
 file = "mods/trickster.pw.toml"
-hash = "b1ef303a83be5dd39109b0155e0702a706f4d3c8a27a8fcfd1faee48754614af"
+hash = "4c6a69b0f9ddff22e9ef002721071d7feea0a0dd5d742d1fbaed440b54630d05"
 metafile = true
 
 [[files]]
