@@ -259,11 +259,6 @@ hash = "72acc0c012c32239b33b9dd388b0144f8b59328b666cd81e1977bf5a23bf1f33"
 metafile = true
 
 [[files]]
-file = "mods/knockdowns.pw.toml"
-hash = "844c6183a3b039f72a9b3d74a594c45bdfa98ee1f0ca61eccbfe7c1c0ed7c355"
-metafile = true
-
-[[files]]
 file = "mods/lambda-better-grass-gh.pw.toml"
 hash = "490b870817ec0f8b90497de5a7efdb20230d9223919007debd62585455285697"
 metafile = true

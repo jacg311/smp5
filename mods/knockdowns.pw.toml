@@ -1,7 +1,0 @@
-name = "knockdowns"
-filename = "knockdowns-2.3.1-rai.1.jar"
-
-[download]
-url = "https://maven.enjarai.dev/releases/ru/octol1ttle/knockdowns/knockdowns/2.3.1-rai.1/knockdowns-2.3.1-rai.1.jar"
-hash-format = "sha256"
-hash = "330c5116b36255c372f4b5457e1d6c28d40320e430f051b9d9c35b2637a278e0"
