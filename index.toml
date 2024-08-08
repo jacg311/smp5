@@ -134,6 +134,11 @@ hash = "ed3d2b9957ff1b877d4dfc68209f6032238ce1eba6e85a3129009c92b0801e07"
 metafile = true
 
 [[files]]
+file = "mods/crashexploitfixer.pw.toml"
+hash = "80644ee1aa2a19ef30d5fd9ea51915ec54762441544365d3dc498783f6619400"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "f8a561f0ac371a33d5e5c4f3a525b5aaca4161b391f46505eac4e1a1d4895902"
 metafile = true
