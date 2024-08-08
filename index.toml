@@ -139,11 +139,6 @@ hash = "f8a561f0ac371a33d5e5c4f3a525b5aaca4161b391f46505eac4e1a1d4895902"
 metafile = true
 
 [[files]]
-file = "mods/creeper-healing.pw.toml"
-hash = "d83dbab56d16f0480ba43c6d89f7af0a6c09644d56dc0b22f9084de1a180ed83"
-metafile = true
-
-[[files]]
 file = "mods/ctlibmod.pw.toml"
 hash = "93f9047e87518653b89b55a5bd8f4f7aff866507874578354258ae6cdf925a4b"
 metafile = true
