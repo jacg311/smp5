@@ -144,6 +144,11 @@ hash = "d83dbab56d16f0480ba43c6d89f7af0a6c09644d56dc0b22f9084de1a180ed83"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "f3620beedfbb7e460cc3b69ea5ccb6125cd97c2c1ace4baebc1eecc60fafadbb"
+metafile = true
+
+[[files]]
 file = "mods/ctlibmod.pw.toml"
 hash = "93f9047e87518653b89b55a5bd8f4f7aff866507874578354258ae6cdf925a4b"
 metafile = true
@@ -211,6 +216,16 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "a0f60591c5fc8f102910298f29e094581f23c807a10bf4c4ccd3fe2f118c55b1"
+metafile = true
+
+[[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "858b526a58e5d34251b8b743ce5d19f99565a8bde6a1953892e54f958300074a"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "d5d726aacfb80dbe7cc8da290ea3d9557d4fcb5dfa2078d69ac276cdeff485b2"
 metafile = true
 
 [[files]]
@@ -324,6 +339,11 @@ hash = "d17301f2e3cb2c1d5a11391096f1b06c7d1d4bafaaf96dec3def6a376b96396c"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "ae035fa644520fea23ccc906c0ccf51cab4f2aac90fd8b2fd12009accdd91479"
+metafile = true
+
+[[files]]
 file = "mods/nebula.pw.toml"
 hash = "23d46e25a7052efb3298a857440622d92dd3967c4ee003948ee2e0a8f910dc86"
 metafile = true
@@ -389,6 +409,16 @@ hash = "9865e63bf67a92733521117b39184c72139ea60877afab55959fb60e0d8b2d36"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "1611a1cf0f9a0c91382395817956461418be1c58f4bb0d9032370213a49d258b"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "4be2672be0847b117bfb0b79642f95f15e14fe20444530455aab53fa14c78c8c"
+metafile = true
+
+[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "94a04d1f3e30ce411ae630d33fe386eaeedf4153b3f6b5985c2774b111455278"
 metafile = true
@@ -406,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "b0e0ec47b09ae328d75c3d93f5cfaf6d7ee39739f9a38f559fa3faad6321e200"
+metafile = true
+
+[[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "ead157b90d0e0a46f09bddb1737f539a518b765695a266cfaad26bcdd772a0ba"
 metafile = true
 
 [[files]]
