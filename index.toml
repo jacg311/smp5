@@ -144,11 +144,6 @@ hash = "d83dbab56d16f0480ba43c6d89f7af0a6c09644d56dc0b22f9084de1a180ed83"
 metafile = true
 
 [[files]]
-file = "mods/creeper-overhaul.pw.toml"
-hash = "f3620beedfbb7e460cc3b69ea5ccb6125cd97c2c1ace4baebc1eecc60fafadbb"
-metafile = true
-
-[[files]]
 file = "mods/ctlibmod.pw.toml"
 hash = "93f9047e87518653b89b55a5bd8f4f7aff866507874578354258ae6cdf925a4b"
 metafile = true
@@ -221,11 +216,6 @@ metafile = true
 [[files]]
 file = "mods/frozenlib.pw.toml"
 hash = "858b526a58e5d34251b8b743ce5d19f99565a8bde6a1953892e54f958300074a"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "d5d726aacfb80dbe7cc8da290ea3d9557d4fcb5dfa2078d69ac276cdeff485b2"
 metafile = true
 
 [[files]]
@@ -406,16 +396,6 @@ metafile = true
 [[files]]
 file = "mods/public-ender-chest.pw.toml"
 hash = "9865e63bf67a92733521117b39184c72139ea60877afab55959fb60e0d8b2d36"
-metafile = true
-
-[[files]]
-file = "mods/resourceful-config.pw.toml"
-hash = "1611a1cf0f9a0c91382395817956461418be1c58f4bb0d9032370213a49d258b"
-metafile = true
-
-[[files]]
-file = "mods/resourceful-lib.pw.toml"
-hash = "4be2672be0847b117bfb0b79642f95f15e14fe20444530455aab53fa14c78c8c"
 metafile = true
 
 [[files]]
