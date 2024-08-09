@@ -1,13 +1,13 @@
 name = "Trickster"
-filename = "trickster-2.0.0-alpha.9.jar"
+filename = "trickster-2.0.0-alpha.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZdEfcqro/versions/qcM4rcR2/trickster-2.0.0-alpha.9.jar"
+url = "https://cdn.modrinth.com/data/ZdEfcqro/versions/wjvu4w0P/trickster-2.0.0-alpha.10.jar"
 hash-format = "sha1"
-hash = "d74fc8b848a47baacc854de1d6e9cc4b000c15c5"
+hash = "896e31562e9db50342d495eb3663041ac8c886a3"
 
 [update]
 [update.modrinth]
 mod-id = "ZdEfcqro"
-version = "qcM4rcR2"
+version = "wjvu4w0P"
