@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
-hash = "0ff4da9f2b878f4e9197a1b96d16f7145661a0dffbf008b959729e57f4090c11"
+hash = "b8857f71d7afa74beaf5c8db1072b29c001e9c9f14da1ef91a4b7150867d5335"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
+hash = "c8215a5e6f35175c0c3d764284026b94a8159207319299081459f6aeb05b4191"
 metafile = true
 
 [[files]]
