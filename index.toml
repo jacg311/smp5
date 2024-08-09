@@ -389,6 +389,11 @@ hash = "9865e63bf67a92733521117b39184c72139ea60877afab55959fb60e0d8b2d36"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "c497424b603b0b9fc190427fd7aa0985d23a74f4cba6c554e14f7dbd29385df2"
+metafile = true
+
+[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "94a04d1f3e30ce411ae630d33fe386eaeedf4153b3f6b5985c2774b111455278"
 metafile = true
@@ -416,6 +421,11 @@ metafile = true
 [[files]]
 file = "mods/small-ships.pw.toml"
 hash = "be15bd9b1d7e7bee964473fe3c8467a3c324c4611aab36c27d2813a245e61973"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "28f2167da063c1be7b1f4e534cdcbb446daa569cc32ffe1c0705663a9a06a5b9"
 metafile = true
 
 [[files]]
