@@ -50,7 +50,7 @@ hash = "ade3dae1c4cce753f928bb6ed153bce7ade62c58cdef033525e1464baa41db2c"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
-hash = "a483aaaecf54158b11fbc5f1f16d63cdce098de3c9f2ce235adc0b0e8529dfd3"
+hash = "34eb11c83ea82b19df3578a5de25500b360d050c48496688c51f61aa277e5dc7"
 metafile = true
 
 [[files]]
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
-hash = "46c73dc6ecd6d473ed3e8e687e6074764387df476e7b761c86147a8dcb2a27ce"
+hash = "0ff4da9f2b878f4e9197a1b96d16f7145661a0dffbf008b959729e57f4090c11"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "f0ab69070fefbc85039133adf4015dc0a403a45d5c00713d6200b0943a310398"
+hash = "1c1a5fe3812cbc3c9a558eaa402ed00ce01ac4fe21ef1c28dea4a4f996b19794"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "29b7078e678c6b90f607f9b09eaedc927fb274382963f39138b72243f2714224"
+hash = "5158ad2f74f9aa8843552e9630c245dfe9adb3421f00fcc80a2fdc06a032b4ce"
 metafile = true
 
 [[files]]

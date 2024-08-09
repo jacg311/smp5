@@ -1,13 +1,13 @@
 name = "Alloy Forgery"
-filename = "alloy-forgery-2.3.1+1.21.jar"
+filename = "alloy-forgery-2.4.0+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jhl28YkY/versions/ReIpcJ2f/alloy-forgery-2.3.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/jhl28YkY/versions/fMjYkEPl/alloy-forgery-2.4.0%2B1.21.jar"
 hash-format = "sha1"
-hash = "9b1d2c8ff7382c291a3f7c32c7453c647a424bbd"
+hash = "3f41a9ccb62b18e43d98a609f0befd01aaac3a0a"
 
 [update]
 [update.modrinth]
 mod-id = "jhl28YkY"
-version = "ReIpcJ2f"
+version = "fMjYkEPl"
