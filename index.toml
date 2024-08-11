@@ -369,6 +369,11 @@ hash = "d878e8159739d1ea9a40185d4ace5c0185343f53310e354c2c0afb4b19d2e563"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
+metafile = true
+
+[[files]]
 file = "mods/pigsteel-fabric.pw.toml"
 hash = "60f93b079a45038218e46ea92d27375d0504ee39a7bf7791ae5588a0c262cbdf"
 metafile = true
@@ -475,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "242cf606a8cfec2eb63196bdbc3a69c41ffb8d446f30bf22e938452cc4be4fc7"
+hash = "24f8dd6bb4c80941db2ff406b5b86a0a3809c4c2b7047b28cb01231680490190"
 metafile = true
 
 [[files]]
