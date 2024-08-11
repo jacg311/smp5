@@ -144,6 +144,11 @@ hash = "f8a561f0ac371a33d5e5c4f3a525b5aaca4161b391f46505eac4e1a1d4895902"
 metafile = true
 
 [[files]]
+file = "mods/creeper-healing.pw.toml"
+hash = "9889702bbb906a0c347a8c63ca85aa4f0ef0e5c21ac5d6100d473bdf100461aa"
+metafile = true
+
+[[files]]
 file = "mods/ctlibmod.pw.toml"
 hash = "24f8663bfaf2fa9c4cfb17af5335c03fc0fbc6a567ad7edb1ad4e938b55ea1a8"
 metafile = true
@@ -480,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "24f8dd6bb4c80941db2ff406b5b86a0a3809c4c2b7047b28cb01231680490190"
+hash = "f9c6d83d5392a057eb591d337641f72a19145f35d46a4ea64a69d1bb9749f45c"
 metafile = true
 
 [[files]]

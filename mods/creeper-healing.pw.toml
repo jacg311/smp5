@@ -1,0 +1,7 @@
+name = "creeper-healing"
+filename = "creeper-healing-1.2.1-1.21.jar"
+
+[download]
+url = "https://static.enjarai.dev/jars/creeper-healing-1.2.1-1.21.jar"
+hash-format = "sha256"
+hash = "7afbfe015a810773415bc243cc12cf69bb0665a6766e4f654de483dfb6101007"
