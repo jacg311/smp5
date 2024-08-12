@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "e67d8f82c3caf99b898c9721ffea865a3581627c0f5a3e147e02f7030002ef85"
+hash = "95951185fee8c778d56057121179ae863edfde1361612589f565b8d39e4da194"
 metafile = true
 
 [[files]]
@@ -535,5 +535,5 @@ metafile = true
 
 [[files]]
 file = "mods/zauber.pw.toml"
-hash = "c1ce2ccdef16e1b78cfad93107e10100f11a3388c32b071705038665bad81f06"
+hash = "814dcf31a8433c00edbfa13f39bfaf1743d1cd3f5b9513794621157177777c96"
 metafile = true
