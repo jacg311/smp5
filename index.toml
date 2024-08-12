@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/creeper-healing.pw.toml"
-hash = "9889702bbb906a0c347a8c63ca85aa4f0ef0e5c21ac5d6100d473bdf100461aa"
+hash = "064638a3551d5b35015909590eaaafcdcd0d95d7c7da14aab338558f8c41fcee"
 metafile = true
 
 [[files]]
@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "f9c6d83d5392a057eb591d337641f72a19145f35d46a4ea64a69d1bb9749f45c"
+hash = "e67d8f82c3caf99b898c9721ffea865a3581627c0f5a3e147e02f7030002ef85"
 metafile = true
 
 [[files]]
