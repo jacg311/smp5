@@ -284,6 +284,11 @@ hash = "5f294ce150b9f6f7a1d094924b02fa29a4ba40390aac4ee62d9ebc607b7f58f5"
 metafile = true
 
 [[files]]
+file = "mods/limelight.pw.toml"
+hash = "13664209f52967344152566243d3d258e2a6209a1ba6627bf5f2cedde3a3b069"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
 metafile = true
