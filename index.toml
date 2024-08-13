@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
+hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "616c7ca64b9f4af3f5283eaae4cb0be10cff8059e8db9c4e7d7b4422474aa8b1"
+hash = "fc3dd0b7562e5d57d0b95588ab5f961f9cfa4c622c90e27d41b5fcaf2638c178"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "1c1a5fe3812cbc3c9a558eaa402ed00ce01ac4fe21ef1c28dea4a4f996b19794"
+hash = "0aa8e719a05e23fe541f07fa9a528e72dd968477c96575fa75c4ad1c745fc133"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/frozenlib.pw.toml"
-hash = "858b526a58e5d34251b8b743ce5d19f99565a8bde6a1953892e54f958300074a"
+hash = "72b54d598045f9f3bc62c777654753c2343693f9b836c5149ae5165632720b29"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5158ad2f74f9aa8843552e9630c245dfe9adb3421f00fcc80a2fdc06a032b4ce"
+hash = "3f8f7b594419ea4fefa330c82fee1be6d904390b3a6bb40e52aeb8e7b9009c82"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
+hash = "f004eac1859218b35a865698a68000b21806709f02b54b2a2ef55ff04a793328"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ca5ec031a590d0ad2e4feaf61853ce2ed0f0a78f8b7a8627cf183250f0e63d88"
+hash = "ebbaf07d4e04f172081d5f4bec47837ae1008c5a6dbedc32f7ba471dd3d004cd"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "d17301f2e3cb2c1d5a11391096f1b06c7d1d4bafaaf96dec3def6a376b96396c"
+hash = "3a336320d2ecba7615810d546d2cae721a68d0fad508037e33aa5563499639bf"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "b0e0ec47b09ae328d75c3d93f5cfaf6d7ee39739f9a38f559fa3faad6321e200"
+hash = "e64ae93c6ef9b2d06ce3abfe656f4126315f0f07e9303fb26e7f15ad9e6b0d02"
 metafile = true
 
 [[files]]
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/small-ships.pw.toml"
-hash = "be15bd9b1d7e7bee964473fe3c8467a3c324c4611aab36c27d2813a245e61973"
+hash = "57b1f29f5e844903d0fd32018945675ae3d25a6b6de6160c3302505477b87e45"
 metafile = true
 
 [[files]]
@@ -446,6 +446,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "24ca44f204ce1904fa79e0fab79c101831716b3197a726f71abf6e5d3e621f80"
 metafile = true
 
 [[files]]
@@ -490,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "95951185fee8c778d56057121179ae863edfde1361612589f565b8d39e4da194"
+hash = "8f475a8fb3805060b126236195efe611d7dbac1ec8203ad9c2081b870d7db4e3"
 metafile = true
 
 [[files]]
@@ -520,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "0442dd788e91191afa940f8ef8866fed9ba40ae0e1ebed9fe0616a50f655adff"
+hash = "b1691cd742e695fa3bcf41d1c8e9ce15ee40bcc85e7873556ad38a70521742b5"
 metafile = true
 
 [[files]]
@@ -535,5 +540,5 @@ metafile = true
 
 [[files]]
 file = "mods/zauber.pw.toml"
-hash = "c1ce2ccdef16e1b78cfad93107e10100f11a3388c32b071705038665bad81f06"
+hash = "bc63d75879ade2935980bb41567ea2d7c58312306e8f19fa8cc48c6f69d4561d"
 metafile = true
