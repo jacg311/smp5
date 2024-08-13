@@ -1,0 +1,13 @@
+name = "Offhander"
+filename = "offhander-1.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4AZytDM2/versions/BGK8GHIg/offhander-1.1-fabric.jar"
+hash-format = "sha1"
+hash = "4e12005ab3d4707e15940396968c963e93bba148"
+
+[update]
+[update.modrinth]
+mod-id = "4AZytDM2"
+version = "BGK8GHIg"

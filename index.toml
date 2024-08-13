@@ -354,6 +354,11 @@ hash = "ec4bc8b7c36db2dcf3f19b4e03df845c36e18477739a34531de66e2fa75ef2dc"
 metafile = true
 
 [[files]]
+file = "mods/offhander.pw.toml"
+hash = "a5c81982503fe37e459e002639ec9535f74cddc60e53cc10c873b2c3ff2e3a6b"
+metafile = true
+
+[[files]]
 file = "mods/omnihopper.pw.toml"
 hash = "ef596c145d656c54cd2ac81ba3b5b021216b79770f27dd6c01e5b6b3433b2f7b"
 metafile = true
