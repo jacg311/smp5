@@ -219,11 +219,6 @@ hash = "a0f60591c5fc8f102910298f29e094581f23c807a10bf4c4ccd3fe2f118c55b1"
 metafile = true
 
 [[files]]
-file = "mods/frozenlib.pw.toml"
-hash = "72b54d598045f9f3bc62c777654753c2343693f9b836c5149ae5165632720b29"
-metafile = true
-
-[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "0b20ffa61c1bd741aeb720c397ea91367662d8523b421faf26081a02b8410c05"
 metafile = true
@@ -525,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "b1691cd742e695fa3bcf41d1c8e9ce15ee40bcc85e7873556ad38a70521742b5"
+hash = "270639f7fb8158fc147c4be3462cc4bc1a46543e5fcd59e47460ff33356c503e"
 metafile = true
 
 [[files]]
