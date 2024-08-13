@@ -540,5 +540,5 @@ metafile = true
 
 [[files]]
 file = "mods/zauber.pw.toml"
-hash = "bc63d75879ade2935980bb41567ea2d7c58312306e8f19fa8cc48c6f69d4561d"
+hash = "c1ce2ccdef16e1b78cfad93107e10100f11a3388c32b071705038665bad81f06"
 metafile = true

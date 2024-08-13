@@ -1,13 +1,13 @@
 name = "Zauber"
-filename = "Zauber-1.4.6-alpha.3.jar"
+filename = "Zauber-1.4.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Rqq1SNhz/versions/o8X44j1g/Zauber-1.4.6-alpha.3.jar"
+url = "https://cdn.modrinth.com/data/Rqq1SNhz/versions/Peugy9W0/Zauber-1.4.5.jar"
 hash-format = "sha1"
-hash = "f542b30a19b916e3895e08ee573a4e2622f01232"
+hash = "a5e08dd40193c102e2d79e9a6cfe8729305367a2"
 
 [update]
 [update.modrinth]
 mod-id = "Rqq1SNhz"
-version = "o8X44j1g"
+version = "Peugy9W0"
