@@ -344,11 +344,6 @@ hash = "187a72ac973f74f60ee363a52901f66fb3063e229d830cee3ab6920c13a53d87"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "ec4bc8b7c36db2dcf3f19b4e03df845c36e18477739a34531de66e2fa75ef2dc"
-metafile = true
-
-[[files]]
 file = "mods/omnihopper.pw.toml"
 hash = "ef596c145d656c54cd2ac81ba3b5b021216b79770f27dd6c01e5b6b3433b2f7b"
 metafile = true
@@ -530,5 +525,5 @@ metafile = true
 
 [[files]]
 file = "mods/zauber.pw.toml"
-hash = "c1ce2ccdef16e1b78cfad93107e10100f11a3388c32b071705038665bad81f06"
+hash = "b664792dd5922acd13df01af1fa6cb22f51f7bc9b7e195305bca00d92494a515"
 metafile = true
