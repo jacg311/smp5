@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballspack-mod.pw.toml"
-hash = "62f485e724b1197f68756bebf9deb8c898c8116d29ec23b8abea5133780db523"
+hash = "5f3e1028e00c6562588b4b9a378d3745feefa63812c5dc7407d63f808f04b2cc"
 metafile = true
 
 [[files]]
@@ -191,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "f1cfb6d5b1aeae9d349d909fc3170f60332b6347493543a2e4f1f0801f4a5d4d"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "9946a9b330ec4e73a1d967e08dda59bc63207a73ce01d9019ae9e7fe450f8e46"
 metafile = true
 
 [[files]]
@@ -480,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "9c405280addce242b4ea40baaeaabe04f0a064e9408d484e7cef0dec625a8b63"
+hash = "410f073fe1a74e03fc3505723845040546a615f981ba088203e08d4935afbbf6"
 metafile = true
 
 [[files]]
