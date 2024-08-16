@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballspack-mod.pw.toml"
-hash = "2a094ee177a80e3203e66a0f2cc1766a77b6fbe98730fd52454f99d61ab6bec6"
+hash = "62f485e724b1197f68756bebf9deb8c898c8116d29ec23b8abea5133780db523"
 metafile = true
 
 [[files]]
