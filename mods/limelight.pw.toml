@@ -1,7 +1,7 @@
 name = "limelight"
-filename = "limelight-1.0.0+1.21.jar"
+filename = "limelight-0.1.0+1.21.jar"
 
 [download]
-url = "https://static.enjarai.dev/jars/limelight-1.0.0%2B1.21.jar"
+url = "https://static.enjarai.dev/jars/limelight-0.1.0%2B1.21.jar"
 hash-format = "sha256"
-hash = "7c634dc9bf91943ac42b726400f7caed8d87963ff39f6304b42a34d05ec9fa35"
+hash = "4d3dbbbc1203da628e8703535bfd8a96e42a43ecd9ec2e30026f785281b6b92b"

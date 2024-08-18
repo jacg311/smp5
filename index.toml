@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/limelight.pw.toml"
-hash = "13664209f52967344152566243d3d258e2a6209a1ba6627bf5f2cedde3a3b069"
+hash = "1aaf468ce189ebe6ad3e144e270126330cf28fb8eba42c6f92b5ad7cfb769cdc"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "410f073fe1a74e03fc3505723845040546a615f981ba088203e08d4935afbbf6"
+hash = "a9c3c76c1873feba962db0173094f44a934587f853ae2e42cbcb16fd25f43580"
 metafile = true
 
 [[files]]
