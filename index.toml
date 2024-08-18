@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/public-ender-chest.pw.toml"
-hash = "9865e63bf67a92733521117b39184c72139ea60877afab55959fb60e0d8b2d36"
+hash = "bec1971a450d1f947a7ee7713c13ba29b53a4a59331db25a50f84d52c0fc05c9"
 metafile = true
 
 [[files]]
