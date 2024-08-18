@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/creeper-healing.pw.toml"
-hash = "064638a3551d5b35015909590eaaafcdcd0d95d7c7da14aab338558f8c41fcee"
+hash = "ce2075b0d2611044b56eceaed0919672ec621400d40d34cf2e9d2840af7f66ec"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "ec7ddc7195eaec44adb0a060c48d919bedb82775a3b683f8da21ab2eb6921ab1"
+hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
 
 [[files]]
