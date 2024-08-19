@@ -454,6 +454,11 @@ hash = "626d81f721db8ef70b677aafebc1ba862841554ce4b20a4fa268b430fd5aadb8"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "64b58a742f766fba51fdf1db8942d7810c71a2ea57e73b5919ae24f531e779a8"
+metafile = true
+
+[[files]]
 file = "mods/superb-steeds.pw.toml"
 hash = "b583669dd3c454c43ce6954e7c8268fde93cf07f12442dfa86a9dde307adbec2"
 metafile = true
@@ -485,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "a9c3c76c1873feba962db0173094f44a934587f853ae2e42cbcb16fd25f43580"
+hash = "a9ff491cfb974a0f7864f3e1ec880315290aa081b64432d9663b408c150d015f"
 metafile = true
 
 [[files]]
