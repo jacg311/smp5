@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballspack-mod.pw.toml"
-hash = "5f3e1028e00c6562588b4b9a378d3745feefa63812c5dc7407d63f808f04b2cc"
+hash = "47ccd6068e69290d2631df60795f6adfe52adfe75011214495260dd35f93817e"
 metafile = true
 
 [[files]]
@@ -520,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "c99e4ae9d67a01a879ab2b0c36f968d72c65a8757fe29e5d010d374093bbb187"
+hash = "270639f7fb8158fc147c4be3462cc4bc1a46543e5fcd59e47460ff33356c503e"
 metafile = true
 
 [[files]]
