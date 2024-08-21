@@ -55,12 +55,12 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "dff6a5cb0f8d51f770d302cb9c0338be0e96aebe11fd57e79729a99879e73828"
+hash = "b6f377c8269174b237cd9fda8a79646a532ef73455656ed996c974c195b4562f"
 metafile = true
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
-hash = "b8857f71d7afa74beaf5c8db1072b29c001e9c9f14da1ef91a4b7150867d5335"
+hash = "6860b84fef904b2f024d4490f085889e4b53d21bfee8d8500c14dc8d79ed18f7"
 metafile = true
 
 [[files]]
@@ -185,12 +185,12 @@ metafile = true
 
 [[files]]
 file = "mods/enchants-cit.pw.toml"
-hash = "733e3eac83a4431780120f72ab0deea399605dd3c3bcc54b924a3121d6adbf66"
+hash = "597a0bd606fe30b6140fb6cacde2e784346cfc9027074dab964643e3c6d110f7"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "f1cfb6d5b1aeae9d349d909fc3170f60332b6347493543a2e4f1f0801f4a5d4d"
+hash = "8078e4d71da6ead36a6134ba3f5f0b90b53ba6466a176986a644bee3f6c2da5c"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c8215a5e6f35175c0c3d764284026b94a8159207319299081459f6aeb05b4191"
+hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/glitchcore.pw.toml"
-hash = "c88fd4801f88e697b33a5552289a40c08f06b11b0578cd560547b08d0674d928"
+hash = "21ef8fd91e1463a832d045c90781e684c32d0017832b53d123e834535ea56e2d"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "71992523fbc30e1eaf6ad2e01af958c28fe4495696dacfc796a8869a16c2112f"
+hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/lavender.pw.toml"
-hash = "950fa2f1932db70d0173ba4867a4944d84113215f7f4bb984378cfff26719151"
+hash = "77e4772c5dde56efdfaecc2032b652f2476164b36d7735156d44826b90966f92"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "3a336320d2ecba7615810d546d2cae721a68d0fad508037e33aa5563499639bf"
+hash = "4f0c3e4fa227a1e5e9713f8096d9e480155e901a0d32a593b6a53fb01c5e1425"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "441409a44a8eaad301f4ddd23be3b33eb4438fb3c406ccd04b22adfca43d8344"
+hash = "4d993d5f179ccd91d320240990e369fb34994c67f43db493369c1740f96d8c83"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "2d868b98d488238e0dddd52b150a6578e8476eb7bcf107c5ab25096741112f05"
+hash = "1a4a50480745c308e0cb26a7652ef356bd768ddd43560d7142f4a322743a6fec"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/transmog.pw.toml"
-hash = "7f8c6d92249f8483db121b740b78137426213a7fb2b4417ba57bc6bb3971fb9f"
+hash = "2bd5321217c32b21720bd47e6f5b067657de19659ca7b792f223e4b15735d2a3"
 metafile = true
 
 [[files]]
@@ -520,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "270639f7fb8158fc147c4be3462cc4bc1a46543e5fcd59e47460ff33356c503e"
+hash = "c99e4ae9d67a01a879ab2b0c36f968d72c65a8757fe29e5d010d374093bbb187"
 metafile = true
 
 [[files]]

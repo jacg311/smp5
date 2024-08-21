@@ -1,13 +1,13 @@
 name = "Transmog"
-filename = "transmog-fabric-1.4.1+1.21.jar"
+filename = "transmog-fabric-1.4.2+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Th33t82F/versions/E6Eqi7sh/transmog-fabric-1.4.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/Th33t82F/versions/kqXLI5ZF/transmog-fabric-1.4.2%2B1.21.jar"
 hash-format = "sha1"
-hash = "f8b9e8bf9f30fd2132004cadeb0979f5b0f0055b"
+hash = "0d3cb0c93a19ab362c525be562fcc5a359e0bd55"
 
 [update]
 [update.modrinth]
 mod-id = "Th33t82F"
-version = "E6Eqi7sh"
+version = "kqXLI5ZF"
