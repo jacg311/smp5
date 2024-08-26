@@ -50,12 +50,12 @@ hash = "ade3dae1c4cce753f928bb6ed153bce7ade62c58cdef033525e1464baa41db2c"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
-hash = "34eb11c83ea82b19df3578a5de25500b360d050c48496688c51f61aa277e5dc7"
+hash = "88a30ef823bdefe0a061d2c8c80f41d0b5be51ec16335a64a2285f4c1e4f503a"
 metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "b6f377c8269174b237cd9fda8a79646a532ef73455656ed996c974c195b4562f"
+hash = "57a306571b3f977123908b275d723a76570a54612e69416df3b62c51c98a642d"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/lavender.pw.toml"
-hash = "77e4772c5dde56efdfaecc2032b652f2476164b36d7735156d44826b90966f92"
+hash = "b3914b8374cc7dabe7573c3945cf2d246d61c46b0577d06790af89b8f9345d0e"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
+hash = "2b8ce9ab97a35059a79d59d540687385d25956c519ce1728fbcfb13fae93a328"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "4f0c3e4fa227a1e5e9713f8096d9e480155e901a0d32a593b6a53fb01c5e1425"
+hash = "4aa065ea7659a1fb691ce2cf9574b9b9b141489d6fa2ec2b17eb996113d7b94b"
 metafile = true
 
 [[files]]
@@ -346,6 +346,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "187a72ac973f74f60ee363a52901f66fb3063e229d830cee3ab6920c13a53d87"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "407000bbf6b2ababf9d5e1169563e47dbe80150ce302820c88db2f1717f0acd8"
 metafile = true
 
 [[files]]
@@ -391,6 +396,16 @@ metafile = true
 [[files]]
 file = "mods/public-ender-chest.pw.toml"
 hash = "bec1971a450d1f947a7ee7713c13ba29b53a4a59331db25a50f84d52c0fc05c9"
+metafile = true
+
+[[files]]
+file = "mods/pyrite.pw.toml"
+hash = "430deb8b3eb40749c1b8ea0bd9234705d1a8cc011f2034defe713a6bb2c137cb"
+metafile = true
+
+[[files]]
+file = "mods/redstonepen.pw.toml"
+hash = "b1492772c18b5c885cc5afc28f0e44dc1fc284484f08a59387a4a613e436c543"
 metafile = true
 
 [[files]]
@@ -445,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "4d993d5f179ccd91d320240990e369fb34994c67f43db493369c1740f96d8c83"
+hash = "d2dd17016872ae232e999d1897614c74386278d98f7ccc01f6485b3273ed14f0"
 metafile = true
 
 [[files]]
@@ -490,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "a9ff491cfb974a0f7864f3e1ec880315290aa081b64432d9663b408c150d015f"
+hash = "7d41ea0e9966dfd98ece58e2cc6fb0ee64e1ce558d9f144ebe734802fc1fb9aa"
 metafile = true
 
 [[files]]
