@@ -304,6 +304,11 @@ hash = "13efcc3ec1b464baba0b031bc4c86b5500989d92202ccbafaa78befedf1edd08"
 metafile = true
 
 [[files]]
+file = "mods/mini-tardis.pw.toml"
+hash = "cd12d14dfdce3a6ef071794603ff2898ad784b5aafee1b0c3d7a3e49811c0c45"
+metafile = true
+
+[[files]]
 file = "mods/moderate-loading-screen.pw.toml"
 hash = "a19f707a7da215ef8103d35d5b1e5e50a373e4432d5b74eefd51004a732d1919"
 metafile = true
@@ -396,11 +401,6 @@ metafile = true
 [[files]]
 file = "mods/public-ender-chest.pw.toml"
 hash = "bec1971a450d1f947a7ee7713c13ba29b53a4a59331db25a50f84d52c0fc05c9"
-metafile = true
-
-[[files]]
-file = "mods/pyrite.pw.toml"
-hash = "430deb8b3eb40749c1b8ea0bd9234705d1a8cc011f2034defe713a6bb2c137cb"
 metafile = true
 
 [[files]]

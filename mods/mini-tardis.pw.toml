@@ -1,0 +1,13 @@
+name = "Mini Tardis"
+filename = "mini_tardis-1.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AnM1UyFW/versions/nCf0n2V9/mini_tardis-1.1.0%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "43038d641047556238a017382039c9682c18375d"
+
+[update]
+[update.modrinth]
+mod-id = "AnM1UyFW"
+version = "nCf0n2V9"
