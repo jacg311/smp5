@@ -1,13 +1,7 @@
-name = "Mini Tardis"
-filename = "mini_tardis-1.1.1+1.21.1.jar"
-side = "both"
+name = "mini-tardis"
+filename = "mini_tardis-1.2.0-alpha.1+1.21.1.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/AnM1UyFW/versions/dtVXX4aR/mini_tardis-1.1.1%2B1.21.1.jar"
-hash-format = "sha1"
-hash = "d5089f43498f3ea392c25e951a0354c8956f9c94"
-
-[update]
-[update.modrinth]
-mod-id = "AnM1UyFW"
-version = "dtVXX4aR"
+url = "https://maven.enjarai.dev/releases/dev/enjarai/mini_tardis/1.2.0-alpha.1+1.21.1/mini_tardis-1.2.0-alpha.1+1.21.1.jar"
+hash-format = "sha256"
+hash = "9bfc5d3e16567b5fa983aab6b14efcaa71db9c42da32748bd7bfb722b4d2a6c5"
