@@ -409,6 +409,11 @@ hash = "bec1971a450d1f947a7ee7713c13ba29b53a4a59331db25a50f84d52c0fc05c9"
 metafile = true
 
 [[files]]
+file = "mods/pyrite.pw.toml"
+hash = "b2347030b3ebaf7ee5b39b434ba16cfc8c8a73fdbfa7fd69b43bc312c6f0b4d2"
+metafile = true
+
+[[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "b1492772c18b5c885cc5afc28f0e44dc1fc284484f08a59387a4a613e436c543"
 metafile = true
