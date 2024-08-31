@@ -1,7 +1,7 @@
 name = "mini-tardis"
-filename = "mini_tardis-1.2.0-alpha.2+1.21.1.jar"
+filename = "mini_tardis-1.2.0-alpha.3+1.21.1.jar"
 
 [download]
-url = "https://maven.enjarai.dev/releases/dev/enjarai/mini_tardis/1.2.0-alpha.2+1.21.1/mini_tardis-1.2.0-alpha.2+1.21.1.jar"
+url = "https://maven.enjarai.dev/releases/dev/enjarai/mini_tardis/1.2.0-alpha.3+1.21.1/mini_tardis-1.2.0-alpha.3+1.21.1.jar"
 hash-format = "sha256"
-hash = "2f7473fea3462ff3347abf51d0307cf6c9148e938c4c20b835bce93be3a4a6c4"
+hash = "934ad6d92332ff50b194fa468f3344063145fa12f7d872e9403c0acaaf10a9c1"
