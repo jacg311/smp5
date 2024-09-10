@@ -1,0 +1,7 @@
+name = "bettertrims"
+filename = "BetterTrims-3.0.0-fabric1.21.1.jar"
+
+[download]
+url = "https://static.enjarai.dev/jars/BetterTrims-3.0.0-fabric1.21.1.jar"
+hash-format = "sha256"
+hash = "bbd10865c30f04300b36e3a0617824bee09eccaf2c6592e74c7e2afa46aaaacb"

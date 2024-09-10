@@ -64,6 +64,11 @@ hash = "6860b84fef904b2f024d4490f085889e4b53d21bfee8d8500c14dc8d79ed18f7"
 metafile = true
 
 [[files]]
+file = "mods/allthetrims.pw.toml"
+hash = "c08e4e350c70d0e5c883e5cefeb0d2713d099dd9a146a6e0371259d649dd7c62"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "af482cdaf7c5d9d5481e7cd789d98ebc17f47e4565a28af6c6365aef896d1404"
 metafile = true
@@ -86,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/ballspack-mod.pw.toml"
 hash = "ac62751e8e48f17c007bc719fa2f1fc6a8a899bfbbd073a501217506d3178cd9"
+metafile = true
+
+[[files]]
+file = "mods/bettertrims.pw.toml"
+hash = "cf90d629492d6906413436e3bae8c6f0b22c9cf111196005bd7bed78609122ea"
 metafile = true
 
 [[files]]
@@ -126,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
+metafile = true
+
+[[files]]
+file = "mods/configurable.pw.toml"
+hash = "eeb83a8aa2f3e2e799697e73a6a7b0d0e835bd73d80dad46ad3955820d6075a9"
 metafile = true
 
 [[files]]
@@ -281,11 +296,6 @@ metafile = true
 [[files]]
 file = "mods/ledger.pw.toml"
 hash = "be01c706542e5e1a1dd4f960f2405dbed2aa4d3a15168d2e8c49e2ba9e070030"
-metafile = true
-
-[[files]]
-file = "mods/lightwithin.pw.toml"
-hash = "5f294ce150b9f6f7a1d094924b02fa29a4ba40390aac4ee62d9ebc607b7f58f5"
 metafile = true
 
 [[files]]
