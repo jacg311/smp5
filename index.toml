@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/mini-tardis.pw.toml"
-hash = "97611a2e554135f68dcc50b934741c372ad4aa810a211c36ccef188ca741c4bb"
+hash = "5b34b80b6ea6abd525263838a07f0b48a43e7d541b41f9087207f09c50b741d3"
 metafile = true
 
 [[files]]
@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/pyrite.pw.toml"
-hash = "b2347030b3ebaf7ee5b39b434ba16cfc8c8a73fdbfa7fd69b43bc312c6f0b4d2"
+hash = "8209e842464d91d864be8525a7bf3b5067c99e9f5614da4fb872f848dde4ff64"
 metafile = true
 
 [[files]]
