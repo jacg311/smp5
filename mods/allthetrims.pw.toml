@@ -1,13 +1,13 @@
 name = "All The Trims"
-filename = "AllTheTrims-4.0.2-fabric+1.21.jar"
+filename = "AllTheTrims-4.0.3-fabric+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pnsUKrap/versions/YaYyRqQO/AllTheTrims-4.0.2-fabric%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/pnsUKrap/versions/LkCkj7VN/AllTheTrims-4.0.3-fabric%2B1.21.jar"
 hash-format = "sha1"
-hash = "931c8093631393042316f3d2dd50d1d55527a524"
+hash = "2002088af050010b4c444560be6c4d1a0647cc28"
 
 [update]
 [update.modrinth]
 mod-id = "pnsUKrap"
-version = "YaYyRqQO"
+version = "LkCkj7VN"
