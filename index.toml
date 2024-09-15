@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/allthetrims.pw.toml"
-hash = "c08e4e350c70d0e5c883e5cefeb0d2713d099dd9a146a6e0371259d649dd7c62"
+hash = "a1cace11eb6ef1983b717a0bf33b661097e039cbf64bebae7e8d12153daf5150"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettertrims.pw.toml"
-hash = "cf90d629492d6906413436e3bae8c6f0b22c9cf111196005bd7bed78609122ea"
+hash = "0d79a80f0e316daab0667761744a1747f50d728e999764ad81af0061cbdeae6e"
 metafile = true
 
 [[files]]
@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "7b8625791fdebf186edd75abcea60c48d3dac6a358dbfb3145cbbb3e88a33e47"
+hash = "52221b219774684120fe00fa6ceece317e93a5952326f813187ce43bfe85d8f1"
 metafile = true
 
 [[files]]
