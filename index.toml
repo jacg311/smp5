@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/mini-tardis.pw.toml"
-hash = "5b34b80b6ea6abd525263838a07f0b48a43e7d541b41f9087207f09c50b741d3"
+hash = "cd7ca5a615ce1439c872bf92dcc4f9a9f20521325c15e89bd0817bc40add5baf"
 metafile = true
 
 [[files]]
@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "52221b219774684120fe00fa6ceece317e93a5952326f813187ce43bfe85d8f1"
+hash = "35b5b1641daa1aa2b2e93ec6c1d5d383fe10633183df8ccb931c13425a1f423e"
 metafile = true
 
 [[files]]
