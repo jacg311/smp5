@@ -1,13 +1,13 @@
 name = "BetterTrims"
-filename = "BetterTrims-3.0.1-fabric+1.21.1.jar"
+filename = "BetterTrims-3.2.5-fabric+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/98ytUvlc/versions/Jb9YtZXh/BetterTrims-3.0.1-fabric%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/98ytUvlc/versions/EBoN4oLb/BetterTrims-3.2.5-fabric%2B1.21.1.jar"
 hash-format = "sha1"
-hash = "4b759e81e06a02c971f8cafec2c9b459705a4aab"
+hash = "7195519690960c7b18fe923e48c9c7aae62f9202"
 
 [update]
 [update.modrinth]
 mod-id = "98ytUvlc"
-version = "Jb9YtZXh"
+version = "EBoN4oLb"

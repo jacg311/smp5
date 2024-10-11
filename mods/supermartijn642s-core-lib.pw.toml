@@ -1,13 +1,13 @@
 name = "SuperMartijn642's Core Lib"
-filename = "supermartijn642corelib-1.1.17b-fabric-mc1.21.jar"
+filename = "supermartijn642corelib-1.1.17c-fabric-mc1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rOUBggPv/versions/1rAvnwdV/supermartijn642corelib-1.1.17b-fabric-mc1.21.jar"
+url = "https://cdn.modrinth.com/data/rOUBggPv/versions/holOgWrB/supermartijn642corelib-1.1.17c-fabric-mc1.21.jar"
 hash-format = "sha1"
-hash = "da2c38c51d0532e2d3c905b39e94b0b40799faac"
+hash = "6a7e33131d1747c50d2485695eefa2575f6a5eb2"
 
 [update]
 [update.modrinth]
 mod-id = "rOUBggPv"
-version = "1rAvnwdV"
+version = "holOgWrB"
