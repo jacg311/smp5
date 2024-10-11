@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/nebula.pw.toml"
-hash = "64e74e3fac446dcdecc02da4e9f5fd3c09890c81d031651194ac9c1f359a63b5"
+hash = "23d46e25a7052efb3298a857440622d92dd3967c4ee003948ee2e0a8f910dc86"
 metafile = true
 
 [[files]]
