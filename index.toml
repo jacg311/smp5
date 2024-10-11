@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/configurable.pw.toml"
-hash = "02ee9d814286a9081dd996ed5c368f714923a7bd817fc76bdbbfb61beaeecfec"
+hash = "c16ee1a90fe1ccdc9aaed932589e3cb1067c7bb6fc7c96f2628f9e5301aea635"
 metafile = true
 
 [[files]]
@@ -421,11 +421,6 @@ metafile = true
 [[files]]
 file = "mods/public-ender-chest.pw.toml"
 hash = "bec1971a450d1f947a7ee7713c13ba29b53a4a59331db25a50f84d52c0fc05c9"
-metafile = true
-
-[[files]]
-file = "mods/pyrite.pw.toml"
-hash = "76c5a32b71de1e907431a13c5939154972b8469bdfec567ae24084771baf97fd"
 metafile = true
 
 [[files]]
