@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/creeper-healing.pw.toml"
-hash = "ce2075b0d2611044b56eceaed0919672ec621400d40d34cf2e9d2840af7f66ec"
+hash = "af231406c2beb3d7008aa974abede422ca96a823312631027ce1d09c662325cf"
 metafile = true
 
 [[files]]
